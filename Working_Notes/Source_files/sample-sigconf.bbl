@@ -1,0 +1,155 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{9}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Frank, Paynter, Witten, Gutwin, and
+  Nevill-Manning}{Frank et~al\mbox{.}}{1999}]%
+        {frank1999domain}
+\bibfield{author}{\bibinfo{person}{Eibe Frank}, \bibinfo{person}{Gordon~W
+  Paynter}, \bibinfo{person}{Ian~H Witten}, \bibinfo{person}{Carl Gutwin},
+  {and} \bibinfo{person}{Craig~G Nevill-Manning}.}
+  \bibinfo{year}{1999}\natexlab{}.
+\newblock \showarticletitle{Domain-specific keyphrase extraction}. In
+  \bibinfo{booktitle}{{\em 16th International Joint Conference on Artificial
+  Intelligence (IJCAI 99)}}, Vol.~\bibinfo{volume}{2}. Morgan Kaufmann
+  Publishers Inc., San Francisco, CA, USA, \bibinfo{pages}{668--673}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Galgani, Compton, and Hoffmann}{Galgani
+  et~al\mbox{.}}{2012}]%
+        {galgani2012towards}
+\bibfield{author}{\bibinfo{person}{Filippo Galgani}, \bibinfo{person}{Paul
+  Compton}, {and} \bibinfo{person}{Achim Hoffmann}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Towards automatic generation of catchphrases for
+  legal case reports}.
+\newblock \bibinfo{journal}{{\em Computational Linguistics and Intelligent Text
+  Processing\/}} (\bibinfo{year}{2012}), \bibinfo{pages}{414--425}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Haggag}{Haggag}{2013}]%
+        {haggag2013keyword}
+\bibfield{author}{\bibinfo{person}{Mohamed~H Haggag}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Keyword extraction using semantic analysis}.
+\newblock \bibinfo{journal}{{\em International Journal of Computer
+  Applications\/}} \bibinfo{volume}{61}, \bibinfo{number}{1}
+  (\bibinfo{year}{2013}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lesk}{Lesk}{1986}]%
+        {lesk1986automatic}
+\bibfield{author}{\bibinfo{person}{Michael Lesk}.}
+  \bibinfo{year}{1986}\natexlab{}.
+\newblock \showarticletitle{Automatic sense disambiguation using machine
+  readable dictionaries: how to tell a pine cone from an ice cream cone}. In
+  \bibinfo{booktitle}{{\em Proceedings of the 5th annual international
+  conference on Systems documentation}}. ACM, \bibinfo{pages}{24--26}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lin}{Lin}{2004}]%
+        {lin2004rouge}
+\bibfield{author}{\bibinfo{person}{Chin-Yew Lin}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \showarticletitle{Rouge: A package for automatic evaluation of
+  summaries}. In \bibinfo{booktitle}{{\em Text summarization branches out:
+  Proceedings of the ACL-04 workshop}}, Vol.~\bibinfo{volume}{8}. Barcelona,
+  Spain.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mandal, Ghosh, Bhattacharya, Pal, and
+  Ghosh}{Mandal et~al\mbox{.}}{2017}]%
+        {fire2017-irled}
+\bibfield{author}{\bibinfo{person}{Arpan Mandal}, \bibinfo{person}{Kripabandhu
+  Ghosh}, \bibinfo{person}{Arnab Bhattacharya}, \bibinfo{person}{Arindam Pal},
+  {and} \bibinfo{person}{Saptarshi Ghosh}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{{Overview of the FIRE 2017 track: Information
+  Retrieval from Legal Documents (IRLeD)}}. In \bibinfo{booktitle}{{\em
+  {Working notes of FIRE 2017 - Forum for Information Retrieval Evaluation}}}
+  {\em (\bibinfo{series}{{CEUR Workshop Proceedings}})}.
+  \bibinfo{publisher}{CEUR-WS.org}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Reeve, Han, and Brooks}{Reeve
+  et~al\mbox{.}}{2007}]%
+        {reeve2007use}
+\bibfield{author}{\bibinfo{person}{Lawrence~H Reeve}, \bibinfo{person}{Hyoil
+  Han}, {and} \bibinfo{person}{Ari~D Brooks}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{The use of domain-specific concepts in biomedical
+  text summarization}.
+\newblock \bibinfo{journal}{{\em Information Processing \& Management\/}}
+  \bibinfo{volume}{43}, \bibinfo{number}{6} (\bibinfo{year}{2007}),
+  \bibinfo{pages}{1765--1776}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Toutanova, Klein, Manning, and
+  Singer}{Toutanova et~al\mbox{.}}{2003}]%
+        {toutanova2003feature}
+\bibfield{author}{\bibinfo{person}{Kristina Toutanova}, \bibinfo{person}{Dan
+  Klein}, \bibinfo{person}{Christopher~D Manning}, {and} \bibinfo{person}{Yoram
+  Singer}.} \bibinfo{year}{2003}\natexlab{}.
+\newblock \showarticletitle{Feature-rich part-of-speech tagging with a cyclic
+  dependency network}. In \bibinfo{booktitle}{{\em Proceedings of the 2003
+  Conference of the North American Chapter of the Association for Computational
+  Linguistics on Human Language Technology-Volume 1}}. Association for
+  Computational Linguistics, \bibinfo{pages}{173--180}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ye, Chua, Kan, and Qiu}{Ye
+  et~al\mbox{.}}{2007}]%
+        {ye2007document}
+\bibfield{author}{\bibinfo{person}{Shiren Ye}, \bibinfo{person}{Tat-Seng Chua},
+  \bibinfo{person}{Min-Yen Kan}, {and} \bibinfo{person}{Long Qiu}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Document concept lattice for text understanding and
+  summarization}.
+\newblock \bibinfo{journal}{{\em Information Processing \& Management\/}}
+  \bibinfo{volume}{43}, \bibinfo{number}{6} (\bibinfo{year}{2007}),
+  \bibinfo{pages}{1643--1662}.
+\newblock
+
+
+\end{thebibliography}

@@ -1,0 +1,6 @@
+Multi document extractive summarization.
+Read their contribution highlighted on second page.
+Metric defined- Answer Loss;
+based on Answers to basic questions like who when why etc.
+Algorithm to minimise this loss.
+----under progress----
