@@ -1,5 +1,5 @@
 <h5>EDIT:</h5>
-<b>The approached for both the tasks are explained in detail in <code>Paper.pdf</code></b><br>
+<b>The approached for both the tasks are explained in detail in <code>Paper.pdf</code>. Also Available online at <a href="http://ceur-ws.org/Vol-2036/T3-4.pdf">link</a></b><br>
 <i>The codes for the tasks are located inside <code>Data/Task_1</code> and <code>Data/Task_2</code> respectively</i>
 
 <h1><a href="https://sites.google.com/view/fire2017irled">Track description </a></h1>
