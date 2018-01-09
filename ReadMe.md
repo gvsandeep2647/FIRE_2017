@@ -1,6 +1,9 @@
-<h1>Track description </h1>
+<h5>EDIT:</h5>
+<b>The approached for both the tasks are explained in detail in <code>Paper.pdf</code></b><br>
+<i>The codes for the tasks are located inside <code>Data/Task_1</code> and <code>Data/Task_2</code> respectively</i>
 
-<b>Tracking Papers: </b> <a href="https://docs.google.com/spreadsheets/d/1xYgad0NpSvFGCkv4cglKh4LcojTXrqiJ9G3spLHh5HY/edit#gid=0"> SpreadSheet</a>
+<h1><a href="https://sites.google.com/view/fire2017irled">Track description </a></h1>
+
 
 <p>In a Common Law System, great importance is given to prior cases. A prior case (also called a precedent) is an older court case related to the current case, which discusses similar issue(s) and which can be used as reference in the current case. A prior case is treated as important as any law written in the law book (called statutes). This is to ensure that a similar situation is treated similarly in every case. If an ongoing case has any related/relevant legal issue(s) that has already been decided, then the court is expected to follow the interpretations made in the prior case. For this purpose, it is critical for legal practitioners to find and study previous court cases, so as to examine how the ongoing issues were interpreted in the older cases.</p>
 
